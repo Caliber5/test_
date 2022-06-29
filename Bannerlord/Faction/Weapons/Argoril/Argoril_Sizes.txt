@@ -1,0 +1,11 @@
+
+
+
+
+Blade:150.7
+
+Guard: 39.35
+
+Pommel: 5.86
+
+Handle: 29.05
