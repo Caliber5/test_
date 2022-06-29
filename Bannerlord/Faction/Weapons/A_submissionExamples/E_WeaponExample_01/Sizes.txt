@@ -1,0 +1,10 @@
+
+
+
+Blade:84
+
+Hilt:17.5
+
+Guard:10
+
+Pommen:6.9
